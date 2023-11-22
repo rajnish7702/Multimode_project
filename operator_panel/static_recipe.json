@@ -1,0 +1,254 @@
+{
+    "INFO": [
+        {
+            "inspection_station_name": "LINCODETEST_001",
+            "inspection_station_type": "static"
+        }
+    ],
+    "Part A": [
+        {
+            "Cycle_number": "Cycle 0",
+            "Usecase_number": "M 1",
+            "Port": "1000",
+            "Waypoint_number": "P 0",
+            "Transit_point": "NONE",
+            "Camera_number": "Cam 3",
+            "PLC_INPUT": "{'192.168.1.50','21','0','1'}",
+            "PLC_OUTPUT": "{'192.168.1.61','21','0','1'},{'192.168.1.34','21','0','1'}",
+            "Count_logic_features": "[f1: 0, f2: 0, f3: 10]",
+            "Count_logi_defects": "[d3, d4, d5]"
+        },
+        {
+            "Cycle_number": "Cycle 0",
+            "Usecase_number": "M 1",
+            "Port": "1000",
+            "Waypoint_number": "P 0",
+            "Transit_point": "NONE",
+            "Camera_number": "Cam 1",
+            "PLC_INPUT": "",
+            "PLC_OUTPUT": "",
+            "Count_logic_features": "[f1: 4, f2: 8, f3: 0]",
+            "Count_logi_defects": "[d1, d5]"
+        },
+        {
+            "Cycle_number": "Cycle 0",
+            "Usecase_number": "MBAR",
+            "Port": "2002",
+            "Waypoint_number": "P 0",
+            "Transit_point": "NONE",
+            "Camera_number": "Cam 1",
+            "PLC_INPUT": "",
+            "PLC_OUTPUT": "",
+            "Count_logic_features": null,
+            "Count_logi_defects": null
+        },
+        {
+            "Cycle_number": "Cycle 0",
+            "Usecase_number": "M 1",
+            "Port": "1000",
+            "Waypoint_number": "P 0",
+            "Transit_point": "NONE",
+            "Camera_number": "Cam 4",
+            "PLC_INPUT": "",
+            "PLC_OUTPUT": "",
+            "Count_logic_features": "[f1: 0, f2: 7, f3: 6]",
+            "Count_logi_defects": "[d2, d4, d5]"
+        },
+        {
+            "Cycle_number": "Cycle 0",
+            "Usecase_number": "M 2",
+            "Port": "2000",
+            "Waypoint_number": "P 0",
+            "Transit_point": "NONE",
+            "Camera_number": "Cam 1",
+            "PLC_INPUT": "",
+            "PLC_OUTPUT": "",
+            "Count_logic_features": "[f1: 0, f2: 6, f3: 12, f4: 0, f5: 4, f6: 7, f7: 18]",
+            "Count_logi_defects": "None"
+        },
+        {
+            "Cycle_number": "Cycle 0",
+            "Usecase_number": "M 2",
+            "Port": "2000",
+            "Waypoint_number": "P 0",
+            "Transit_point": "NONE",
+            "Camera_number": "Cam 2",
+            "PLC_INPUT": "",
+            "PLC_OUTPUT": "",
+            "Count_logic_features": "[f1: 7, f2: 0, f3: 8, f4: 0, f5: 10, f6: 14, f7: 0]",
+            "Count_logi_defects": "None"
+        },
+        {
+            "Cycle_number": "Cycle 0",
+            "Usecase_number": "M 2",
+            "Port": "2000",
+            "Waypoint_number": "P 0",
+            "Transit_point": "NONE",
+            "Camera_number": "Cam 3",
+            "PLC_INPUT": "",
+            "PLC_OUTPUT": "",
+            "Count_logic_features": "[f1: 10, f2: 0, f3: 0, f4: 15, f5: 1, f6: 0, f7: 9]",
+            "Count_logi_defects": "None"
+        },
+        {
+            "Cycle_number": "Cycle 0",
+            "Usecase_number": "M 2",
+            "Port": "2000",
+            "Waypoint_number": "P 0",
+            "Transit_point": "NONE",
+            "Camera_number": "Cam 5",
+            "PLC_INPUT": "",
+            "PLC_OUTPUT": "",
+            "Count_logic_features": "[f1: 0, f2: 11, f3: 0, f4: 14, f5: 0, f6: 8, f7: 0]",
+            "Count_logi_defects": "None"
+        },
+        {
+            "Cycle_number": "Cycle 0",
+            "Usecase_number": "M 3",
+            "Port": "3000",
+            "Waypoint_number": "P 0",
+            "Transit_point": "NONE",
+            "Camera_number": "Cam 2",
+            "PLC_INPUT": "",
+            "PLC_OUTPUT": "",
+            "Count_logic_features": "[f1: 12, f2: 6]",
+            "Count_logi_defects": "[d1]"
+        },
+        {
+            "Cycle_number": "Cycle 0",
+            "Usecase_number": "M 3",
+            "Port": "3000",
+            "Waypoint_number": "P 0",
+            "Transit_point": "NONE",
+            "Camera_number": "Cam 3",
+            "PLC_INPUT": "",
+            "PLC_OUTPUT": "",
+            "Count_logic_features": "[f1: 11, f2: 14]",
+            "Count_logi_defects": "[d2]"
+        },
+        {
+            "Cycle_number": "Cycle 0",
+            "Usecase_number": "MOCR",
+            "Port": "1001",
+            "Waypoint_number": "P 0",
+            "Transit_point": "NONE",
+            "Camera_number": "Cam 1",
+            "PLC_INPUT": "",
+            "PLC_OUTPUT": "",
+            "Count_logic_features": null,
+            "Count_logi_defects": null
+        },
+        {
+            "Cycle_number": "Cycle 0",
+            "Usecase_number": "M 3",
+            "Port": "3000",
+            "Waypoint_number": "P 0",
+            "Transit_point": "NONE",
+            "Camera_number": "Cam 4",
+            "PLC_INPUT": "",
+            "PLC_OUTPUT": "",
+            "Count_logic_features": "[f1: 14, f2: 1]",
+            "Count_logi_defects": "[d2, d1]"
+        }
+    ],
+    "Part B": [
+        {
+            "Cycle_number": "Cycle 0",
+            "Usecase_number": "M 2",
+            "Port": "2000",
+            "Waypoint_number": "P 0",
+            "Transit_point": "NONE",
+            "Camera_number": "Cam 2",
+            "PLC_INPUT": "",
+            "PLC_OUTPUT": "",
+            "Count_logic_features": "[f1: 0, f2: 11, f3: 0, f4: 14, f5: 0, f6: 8, f7: 0]",
+            "Count_logi_defects": null
+        },
+        {
+            "Cycle_number": "Cycle 0",
+            "Usecase_number": "MBAR",
+            "Port": "2002",
+            "Waypoint_number": "P 0",
+            "Transit_point": "NONE",
+            "Camera_number": "Cam 4",
+            "PLC_INPUT": "",
+            "PLC_OUTPUT": "",
+            "Count_logic_features": null,
+            "Count_logi_defects": null
+        },
+        {
+            "Cycle_number": "Cycle 0",
+            "Usecase_number": "M 2",
+            "Port": "2000",
+            "Waypoint_number": "P 0",
+            "Transit_point": "NONE",
+            "Camera_number": "Cam 3",
+            "PLC_INPUT": "",
+            "PLC_OUTPUT": "",
+            "Count_logic_features": "[f1: 0, f2: 0, f3: 18, f4: 11, f5: 9, f6: 7, f7: 0]",
+            "Count_logi_defects": null
+        },
+        {
+            "Cycle_number": "Cycle 0",
+            "Usecase_number": "M 2",
+            "Port": "2000",
+            "Waypoint_number": "P 0",
+            "Transit_point": "NONE",
+            "Camera_number": "Cam 5",
+            "PLC_INPUT": "",
+            "PLC_OUTPUT": "",
+            "Count_logic_features": "[f1: 13, f2: 0, f3: 9, f4: 0, f5: 12, f6: 0, f7: 0]",
+            "Count_logi_defects": null
+        }
+    ],
+    "Part C": [
+        {
+            "Cycle_number": "Cycle 0",
+            "Usecase_number": "M 3",
+            "Port": "3000",
+            "Waypoint_number": "P 0",
+            "Transit_point": "NONE",
+            "Camera_number": "Cam 2",
+            "PLC_INPUT": "",
+            "PLC_OUTPUT": "",
+            "Count_logic_features": "[f1: 5, f2: 0]",
+            "Count_logi_defects": "[d1, d2]"
+        },
+        {
+            "Cycle_number": "Cycle 0",
+            "Usecase_number": "M 3",
+            "Port": "3000",
+            "Waypoint_number": "P 0",
+            "Transit_point": "NONE",
+            "Camera_number": "Cam 1",
+            "PLC_INPUT": "",
+            "PLC_OUTPUT": "",
+            "Count_logic_features": "[f1: 3, f2: 4]",
+            "Count_logi_defects": "[d2, d1]"
+        },
+        {
+            "Cycle_number": "Cycle 0",
+            "Usecase_number": "M 3",
+            "Port": "3000",
+            "Waypoint_number": "P 0",
+            "Transit_point": "NONE",
+            "Camera_number": "Cam 3",
+            "PLC_INPUT": "",
+            "PLC_OUTPUT": "",
+            "Count_logic_features": "[f1: 1, f2: 2]",
+            "Count_logi_defects": "[d1]"
+        },
+        {
+            "Cycle_number": "Cycle 0",
+            "Usecase_number": "MOCR",
+            "Port": "1001",
+            "Waypoint_number": "P 0",
+            "Transit_point": "NONE",
+            "Camera_number": "Cam 4",
+            "PLC_INPUT": "",
+            "PLC_OUTPUT": "",
+            "Count_logic_features": null,
+            "Count_logi_defects": null
+        }
+    ]
+}

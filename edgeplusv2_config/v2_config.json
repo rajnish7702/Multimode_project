@@ -1,0 +1,32 @@
+
+
+{
+    "LOCAL_MONGO_HOST" : "0.0.0.0",
+    "LOCAL_MONGO_PORT" : 27017,
+    "LOCAL_MONGO_DB" : "LIVIS",
+    "LOCAL_KAFKA_BROKER_URL":"127.0.0.1:9094",
+    "CLOUD_KAFKA_BROKER_URL":"35.232.10.175:9092",
+    "CLOUD_MONGO_HOST" : "35.236.186.201",
+    "CLOUD_MONGO_PORT" : 26000,
+    "CLOUD_MONGO_DB" : "LIVIS_V2",
+    "DOCKER_IMAGE_BE": "ritikaniyengar/ep_backend_live:v15",
+    "DOCKER_IMAGE_BE_HYBRID":"ritikaniyengar/cobot-conveyor:v13",
+    "DOCKER_IMAGE_FE":"ritikaniyengar/edge_fe_live:v4",
+    "DOCKER_FE_NAME":"frontend_v0",
+    "DOCKER_IMAGE_FE_HYBRID":"ritikaniyengar/cobot_conveyor_fe:v2",
+    "DOCKER_FE_HYBRID_NAME":"frontend_v1",
+    "DOCKER_IMAGE_OCR":"ritikaniyengar/ocr_container:v3",
+    "DOCKER_IMAGE_BARCODE":"ritikaniyengar/barcode_container:v1",
+    "OCR_URL":"http://localhost:6800/detectocr",
+    "BARCODE_URL":"http://localhost:6900/detectbar",
+    "LIVIS_URL":"http://localhost:4200/operator",
+    "REDIS_HOST": "0.0.0.0",
+    "REDIS_PORT": 6379,
+    "API_URL":"https://api.livis.ai",
+    "INSPECTION_DELAY":2,
+    "DEFAULT_THRESHOLD":0.5,
+    "DOCKER_IMAGE_YOLO":"model_img_redis",
+    "DOCKER_IMAGE_L_OCR":"",
+    "CAMERA_IMAGE":"cam_image",
+    "COBOT_ADDRESS":"192.168.1.5"
+}
